@@ -14,7 +14,7 @@
               <h6 class="text-muted font-weight-normal">Half Course : ********</h6> --}}
               <div class="d-flex d-sm-block d-md-flex align-items-center">
                 
-               <h3 class="mb-0">Total : 100 </h3> 
+               <h3 class="mb-0">Total : 1002 </h3> 
                 {{-- <p class="text-success ml-2 mb-0 font-weight-medium">+3.5%</p> --}}
               </div>
               
